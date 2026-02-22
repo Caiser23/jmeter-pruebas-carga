@@ -1,0 +1,301 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1771802761450,280,Página de Login,200,OK,Usuarios Login/Logout 1-1,text,true,,3680,136,1,1,https://the-internet.herokuapp.com/login,280,0,220
+1771802761731,121,Logearse,200,OK,Usuarios Login/Logout 1-1,text,true,,5264,1483,1,1,https://the-internet.herokuapp.com/login,60,0,0
+1771802761731,60,Logearse-0,303,See Other,Usuarios Login/Logout 1-1,text,true,,1412,780,1,1,https://the-internet.herokuapp.com/authenticate,60,0,0
+1771802761792,60,Logearse-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3852,703,1,1,https://the-internet.herokuapp.com/login,60,0,0
+1771802761852,119,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-1,text,true,,5299,1380,1,1,https://the-internet.herokuapp.com/login,60,0,0
+1771802761852,60,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-1,text,true,,1433,652,1,1,https://the-internet.herokuapp.com/secure,60,0,0
+1771802761912,59,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3866,728,1,1,https://the-internet.herokuapp.com/login,59,0,0
+1771802761972,118,Logout,200,OK,Usuarios Login/Logout 1-1,text,true,,5288,1376,1,1,https://the-internet.herokuapp.com/login,59,0,0
+1771802761972,59,Logout-0,302,Found,Usuarios Login/Logout 1-1,text,true,,1429,652,1,1,https://the-internet.herokuapp.com/logout,59,0,0
+1771802762031,59,Logout-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3859,724,1,1,https://the-internet.herokuapp.com/login,59,0,0
+1771802762092,60,Página de Login,200,OK,Usuarios Login/Logout 1-1,text,true,,3139,651,1,1,https://the-internet.herokuapp.com/login,60,0,0
+1771802762152,118,Logearse,200,OK,Usuarios Login/Logout 1-1,text,true,,5256,1483,1,1,https://the-internet.herokuapp.com/login,58,0,0
+1771802762152,58,Logearse-0,303,See Other,Usuarios Login/Logout 1-1,text,true,,1408,780,1,1,https://the-internet.herokuapp.com/authenticate,58,0,0
+1771802762210,60,Logearse-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3848,703,1,1,https://the-internet.herokuapp.com/login,60,0,0
+1771802762271,117,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-1,text,true,,5291,1380,1,1,https://the-internet.herokuapp.com/login,58,0,0
+1771802762271,58,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-1,text,true,,1429,652,1,1,https://the-internet.herokuapp.com/secure,58,0,0
+1771802762329,59,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3862,728,1,1,https://the-internet.herokuapp.com/login,59,0,0
+1771802762389,117,Logout,200,OK,Usuarios Login/Logout 1-1,text,true,,5284,1376,2,2,https://the-internet.herokuapp.com/login,58,0,0
+1771802762389,58,Logout-0,302,Found,Usuarios Login/Logout 1-1,text,true,,1425,652,2,2,https://the-internet.herokuapp.com/logout,58,0,0
+1771802762448,58,Logout-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3859,724,2,2,https://the-internet.herokuapp.com/login,58,0,0
+1771802762507,59,Página de Login,200,OK,Usuarios Login/Logout 1-1,text,true,,3139,651,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802762566,116,Logearse,200,OK,Usuarios Login/Logout 1-1,text,true,,5256,1483,2,2,https://the-internet.herokuapp.com/login,58,0,0
+1771802762566,58,Logearse-0,303,See Other,Usuarios Login/Logout 1-1,text,true,,1408,780,2,2,https://the-internet.herokuapp.com/authenticate,58,0,0
+1771802762624,58,Logearse-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3848,703,2,2,https://the-internet.herokuapp.com/login,58,0,0
+1771802762457,256,Página de Login,200,OK,Usuarios Login/Logout 1-2,text,true,,3676,136,2,2,https://the-internet.herokuapp.com/login,256,0,197
+1771802762682,117,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-1,text,true,,5291,1380,2,2,https://the-internet.herokuapp.com/login,57,0,0
+1771802762682,57,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-1,text,true,,1429,652,2,2,https://the-internet.herokuapp.com/secure,57,0,0
+1771802762740,59,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3862,728,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802762714,119,Logearse,200,OK,Usuarios Login/Logout 1-2,text,true,,5256,1483,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802762714,59,Logearse-0,303,See Other,Usuarios Login/Logout 1-2,text,true,,1408,780,2,2,https://the-internet.herokuapp.com/authenticate,59,0,0
+1771802762773,60,Logearse-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3848,703,2,2,https://the-internet.herokuapp.com/login,60,0,0
+1771802762800,118,Logout,200,OK,Usuarios Login/Logout 1-1,text,true,,5284,1376,2,2,https://the-internet.herokuapp.com/login,58,0,0
+1771802762800,58,Logout-0,302,Found,Usuarios Login/Logout 1-1,text,true,,1425,652,2,2,https://the-internet.herokuapp.com/logout,58,0,0
+1771802762859,59,Logout-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3859,724,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802762833,119,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-2,text,true,,5291,1380,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802762833,59,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-2,text,true,,1429,652,2,2,https://the-internet.herokuapp.com/secure,59,0,0
+1771802762893,59,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3862,728,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802762920,59,Página de Login,200,OK,Usuarios Login/Logout 1-1,text,true,,3139,651,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802762952,118,Logout,200,OK,Usuarios Login/Logout 1-2,text,true,,5288,1376,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802762952,59,Logout-0,302,Found,Usuarios Login/Logout 1-2,text,true,,1425,652,2,2,https://the-internet.herokuapp.com/logout,59,0,0
+1771802763012,58,Logout-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3863,724,2,2,https://the-internet.herokuapp.com/login,58,0,0
+1771802762980,120,Logearse,200,OK,Usuarios Login/Logout 1-1,text,true,,5260,1483,2,2,https://the-internet.herokuapp.com/login,58,0,0
+1771802762980,58,Logearse-0,303,See Other,Usuarios Login/Logout 1-1,text,true,,1408,780,2,2,https://the-internet.herokuapp.com/authenticate,58,0,0
+1771802763039,61,Logearse-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3852,703,2,2,https://the-internet.herokuapp.com/login,61,0,0
+1771802763072,58,Página de Login,200,OK,Usuarios Login/Logout 1-2,text,true,,3143,651,2,2,https://the-internet.herokuapp.com/login,58,0,0
+1771802763100,120,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-1,text,true,,5299,1380,2,2,https://the-internet.herokuapp.com/login,61,0,0
+1771802763100,61,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-1,text,true,,1433,652,2,2,https://the-internet.herokuapp.com/secure,61,0,0
+1771802763161,59,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3866,728,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802763130,119,Logearse,200,OK,Usuarios Login/Logout 1-2,text,true,,5264,1483,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802763130,59,Logearse-0,303,See Other,Usuarios Login/Logout 1-2,text,true,,1412,780,2,2,https://the-internet.herokuapp.com/authenticate,59,0,0
+1771802763189,60,Logearse-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3852,703,2,2,https://the-internet.herokuapp.com/login,60,0,0
+1771802763220,118,Logout,200,OK,Usuarios Login/Logout 1-1,text,true,,5292,1376,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802763220,59,Logout-0,302,Found,Usuarios Login/Logout 1-1,text,true,,1429,652,2,2,https://the-internet.herokuapp.com/logout,59,0,0
+1771802763279,59,Logout-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3863,724,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802763250,118,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-2,text,true,,5299,1380,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802763250,59,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-2,text,true,,1433,652,2,2,https://the-internet.herokuapp.com/secure,59,0,0
+1771802763309,59,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3866,728,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802763340,59,Página de Login,200,OK,Usuarios Login/Logout 1-1,text,true,,3143,651,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802763369,118,Logout,200,OK,Usuarios Login/Logout 1-2,text,true,,5292,1376,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802763369,59,Logout-0,302,Found,Usuarios Login/Logout 1-2,text,true,,1429,652,3,3,https://the-internet.herokuapp.com/logout,59,0,0
+1771802763428,59,Logout-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3863,724,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802763400,119,Logearse,200,OK,Usuarios Login/Logout 1-1,text,true,,5264,1483,3,3,https://the-internet.herokuapp.com/login,60,0,0
+1771802763400,60,Logearse-0,303,See Other,Usuarios Login/Logout 1-1,text,true,,1412,780,3,3,https://the-internet.herokuapp.com/authenticate,60,0,0
+1771802763460,59,Logearse-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3852,703,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802763488,59,Página de Login,200,OK,Usuarios Login/Logout 1-2,text,true,,3143,651,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802763520,124,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-1,text,true,,5299,1380,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802763520,59,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-1,text,true,,1433,652,3,3,https://the-internet.herokuapp.com/secure,59,0,0
+1771802763579,65,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3866,728,3,3,https://the-internet.herokuapp.com/login,65,0,0
+1771802763548,116,Logearse,200,OK,Usuarios Login/Logout 1-2,text,true,,5264,1481,3,3,https://the-internet.herokuapp.com/login,57,0,0
+1771802763548,57,Logearse-0,303,See Other,Usuarios Login/Logout 1-2,text,true,,1412,778,3,3,https://the-internet.herokuapp.com/authenticate,57,0,0
+1771802763605,59,Logearse-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3852,703,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802763451,249,Página de Login,200,OK,Usuarios Login/Logout 1-3,text,true,,3680,136,3,3,https://the-internet.herokuapp.com/login,249,0,190
+1771802763648,117,Logout,200,OK,Usuarios Login/Logout 1-1,text,true,,5292,1376,3,3,https://the-internet.herokuapp.com/login,58,0,0
+1771802763648,58,Logout-0,302,Found,Usuarios Login/Logout 1-1,text,true,,1429,652,3,3,https://the-internet.herokuapp.com/logout,58,0,0
+1771802763706,59,Logout-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3863,724,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802763664,120,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-2,text,true,,5299,1380,3,3,https://the-internet.herokuapp.com/login,60,0,0
+1771802763664,60,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-2,text,true,,1433,652,3,3,https://the-internet.herokuapp.com/secure,60,0,0
+1771802763725,59,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3866,728,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802763700,121,Logearse,200,OK,Usuarios Login/Logout 1-3,text,true,,5264,1481,3,3,https://the-internet.herokuapp.com/login,61,0,0
+1771802763700,61,Logearse-0,303,See Other,Usuarios Login/Logout 1-3,text,true,,1412,778,3,3,https://the-internet.herokuapp.com/authenticate,61,0,0
+1771802763761,60,Logearse-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3852,703,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802763766,58,Página de Login,200,OK,Usuarios Login/Logout 1-1,text,true,,3143,651,3,3,https://the-internet.herokuapp.com/login,58,0,0
+1771802763784,119,Logout,200,OK,Usuarios Login/Logout 1-2,text,true,,5292,1376,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802763784,59,Logout-0,302,Found,Usuarios Login/Logout 1-2,text,true,,1429,652,3,3,https://the-internet.herokuapp.com/logout,59,0,0
+1771802763844,59,Logout-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3863,724,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802763821,126,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-3,text,true,,5299,1380,3,3,https://the-internet.herokuapp.com/login,60,0,0
+1771802763825,122,Logearse,200,OK,Usuarios Login/Logout 1-1,text,true,,5264,1481,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802763821,60,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-3,text,true,,1433,652,3,3,https://the-internet.herokuapp.com/secure,60,0,0
+1771802763825,59,Logearse-0,303,See Other,Usuarios Login/Logout 1-1,text,true,,1412,778,3,3,https://the-internet.herokuapp.com/authenticate,59,0,0
+1771802763881,66,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3866,728,3,3,https://the-internet.herokuapp.com/login,66,0,0
+1771802763884,63,Logearse-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3852,703,3,3,https://the-internet.herokuapp.com/login,63,0,0
+1771802763904,61,Página de Login,200,OK,Usuarios Login/Logout 1-2,text,true,,3143,651,3,3,https://the-internet.herokuapp.com/login,61,0,0
+1771802763948,123,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-1,text,true,,5299,1380,3,3,https://the-internet.herokuapp.com/login,61,0,0
+1771802763948,61,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-1,text,true,,1433,652,3,3,https://the-internet.herokuapp.com/secure,61,0,0
+1771802764010,61,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3866,728,3,3,https://the-internet.herokuapp.com/login,61,0,0
+1771802763948,123,Logout,200,OK,Usuarios Login/Logout 1-3,text,true,,5292,1376,3,3,https://the-internet.herokuapp.com/login,62,0,0
+1771802763948,62,Logout-0,302,Found,Usuarios Login/Logout 1-3,text,true,,1429,652,3,3,https://the-internet.herokuapp.com/logout,62,0,0
+1771802764010,61,Logout-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3863,724,3,3,https://the-internet.herokuapp.com/login,61,0,0
+1771802763965,118,Logearse,200,OK,Usuarios Login/Logout 1-2,text,true,,5264,1480,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802763965,59,Logearse-0,303,See Other,Usuarios Login/Logout 1-2,text,true,,1412,777,3,3,https://the-internet.herokuapp.com/authenticate,59,0,0
+1771802764024,59,Logearse-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3852,703,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802764072,63,Página de Login,200,OK,Usuarios Login/Logout 1-3,text,true,,3143,651,3,3,https://the-internet.herokuapp.com/login,63,0,0
+1771802764072,120,Logout,200,OK,Usuarios Login/Logout 1-1,text,true,,5292,1376,3,3,https://the-internet.herokuapp.com/login,60,0,0
+1771802764072,60,Logout-0,302,Found,Usuarios Login/Logout 1-1,text,true,,1429,652,3,3,https://the-internet.herokuapp.com/logout,60,0,0
+1771802764132,60,Logout-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3863,724,3,3,https://the-internet.herokuapp.com/login,60,0,0
+1771802764084,121,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-2,text,true,,5299,1380,3,3,https://the-internet.herokuapp.com/login,61,0,0
+1771802764084,61,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-2,text,true,,1433,652,3,3,https://the-internet.herokuapp.com/secure,61,0,0
+1771802764146,59,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3866,728,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802764193,58,Página de Login,200,OK,Usuarios Login/Logout 1-1,text,true,,3143,651,3,3,https://the-internet.herokuapp.com/login,58,0,0
+1771802764170,117,Logearse,200,OK,Usuarios Login/Logout 1-3,text,true,,5264,1480,3,3,https://the-internet.herokuapp.com/login,58,0,0
+1771802764170,58,Logearse-0,303,See Other,Usuarios Login/Logout 1-3,text,true,,1412,777,3,3,https://the-internet.herokuapp.com/authenticate,58,0,0
+1771802764228,59,Logearse-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3852,703,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802764205,117,Logout,200,OK,Usuarios Login/Logout 1-2,text,true,,5292,1376,3,3,https://the-internet.herokuapp.com/login,58,0,0
+1771802764205,58,Logout-0,302,Found,Usuarios Login/Logout 1-2,text,true,,1429,652,3,3,https://the-internet.herokuapp.com/logout,58,0,0
+1771802764264,58,Logout-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3863,724,3,3,https://the-internet.herokuapp.com/login,58,0,0
+1771802764252,117,Logearse,200,OK,Usuarios Login/Logout 1-1,text,true,,5264,1481,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802764252,59,Logearse-0,303,See Other,Usuarios Login/Logout 1-1,text,true,,1412,778,3,3,https://the-internet.herokuapp.com/authenticate,59,0,0
+1771802764311,58,Logearse-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3852,703,3,3,https://the-internet.herokuapp.com/login,58,0,0
+1771802764323,59,Página de Login,200,OK,Usuarios Login/Logout 1-2,text,true,,3143,651,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802764288,117,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-3,text,true,,5299,1380,3,3,https://the-internet.herokuapp.com/login,58,0,0
+1771802764288,58,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-3,text,true,,1433,652,3,3,https://the-internet.herokuapp.com/secure,58,0,0
+1771802764346,59,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3866,728,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802764370,118,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-1,text,true,,5299,1380,3,3,https://the-internet.herokuapp.com/login,58,0,0
+1771802764370,58,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-1,text,true,,1433,652,3,3,https://the-internet.herokuapp.com/secure,58,0,0
+1771802764428,60,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3866,728,3,3,https://the-internet.herokuapp.com/login,60,0,0
+1771802764383,117,Logearse,200,OK,Usuarios Login/Logout 1-2,text,true,,5264,1480,3,3,https://the-internet.herokuapp.com/login,58,0,0
+1771802764383,58,Logearse-0,303,See Other,Usuarios Login/Logout 1-2,text,true,,1412,777,3,3,https://the-internet.herokuapp.com/authenticate,58,0,0
+1771802764442,58,Logearse-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3852,703,3,3,https://the-internet.herokuapp.com/login,58,0,0
+1771802764406,118,Logout,200,OK,Usuarios Login/Logout 1-3,text,true,,5292,1376,3,3,https://the-internet.herokuapp.com/login,58,0,0
+1771802764406,58,Logout-0,302,Found,Usuarios Login/Logout 1-3,text,true,,1429,652,3,3,https://the-internet.herokuapp.com/logout,58,0,0
+1771802764465,59,Logout-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3863,724,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802764525,63,Página de Login,200,OK,Usuarios Login/Logout 1-3,text,true,,3143,651,3,3,https://the-internet.herokuapp.com/login,63,0,0
+1771802764488,118,Logout,200,OK,Usuarios Login/Logout 1-1,text,true,,5292,1376,3,3,https://the-internet.herokuapp.com/login,57,0,0
+1771802764488,57,Logout-0,302,Found,Usuarios Login/Logout 1-1,text,true,,1429,652,3,3,https://the-internet.herokuapp.com/logout,57,0,0
+1771802764546,60,Logout-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3863,724,3,3,https://the-internet.herokuapp.com/login,60,0,0
+1771802764501,118,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-2,text,true,,5299,1380,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802764501,59,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-2,text,true,,1433,652,3,3,https://the-internet.herokuapp.com/secure,59,0,0
+1771802764560,59,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3866,728,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802764607,59,Página de Login,200,OK,Usuarios Login/Logout 1-1,text,true,,3143,651,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802764588,117,Logearse,200,OK,Usuarios Login/Logout 1-3,text,true,,5264,1480,3,3,https://the-internet.herokuapp.com/login,58,0,0
+1771802764588,58,Logearse-0,303,See Other,Usuarios Login/Logout 1-3,text,true,,1412,777,3,3,https://the-internet.herokuapp.com/authenticate,58,0,0
+1771802764646,59,Logearse-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3852,703,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802764620,117,Logout,200,OK,Usuarios Login/Logout 1-2,text,true,,5292,1376,3,3,https://the-internet.herokuapp.com/login,58,0,0
+1771802764620,58,Logout-0,302,Found,Usuarios Login/Logout 1-2,text,true,,1429,652,3,3,https://the-internet.herokuapp.com/logout,58,0,0
+1771802764678,59,Logout-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3863,724,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802764737,59,Página de Login,200,OK,Usuarios Login/Logout 1-2,text,true,,3143,651,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802764690,117,Logearse,200,OK,Usuarios Login/Logout 1-1,text,true,,5264,1481,3,3,https://the-internet.herokuapp.com/login,57,0,0
+1771802764690,57,Logearse-0,303,See Other,Usuarios Login/Logout 1-1,text,true,,1412,778,3,3,https://the-internet.herokuapp.com/authenticate,57,0,0
+1771802764747,60,Logearse-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3852,703,3,3,https://the-internet.herokuapp.com/login,60,0,0
+1771802764705,119,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-3,text,true,,5299,1380,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802764705,59,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-3,text,true,,1433,652,3,3,https://the-internet.herokuapp.com/secure,59,0,0
+1771802764765,59,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3866,728,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802764796,118,Logearse,200,OK,Usuarios Login/Logout 1-2,text,true,,5264,1480,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802764796,59,Logearse-0,303,See Other,Usuarios Login/Logout 1-2,text,true,,1412,777,3,3,https://the-internet.herokuapp.com/authenticate,59,0,0
+1771802764855,59,Logearse-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3852,703,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802764807,122,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-1,text,true,,5299,1380,3,3,https://the-internet.herokuapp.com/login,60,0,0
+1771802764807,60,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-1,text,true,,1433,652,3,3,https://the-internet.herokuapp.com/secure,60,0,0
+1771802764867,62,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3866,728,3,3,https://the-internet.herokuapp.com/login,62,0,0
+1771802764825,118,Logout,200,OK,Usuarios Login/Logout 1-3,text,true,,5292,1376,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802764825,59,Logout-0,302,Found,Usuarios Login/Logout 1-3,text,true,,1429,652,3,3,https://the-internet.herokuapp.com/logout,59,0,0
+1771802764885,58,Logout-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3863,724,3,3,https://the-internet.herokuapp.com/login,58,0,0
+1771802764944,59,Página de Login,200,OK,Usuarios Login/Logout 1-3,text,true,,3143,651,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802764914,118,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-2,text,true,,5299,1380,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802764914,59,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-2,text,true,,1433,652,3,3,https://the-internet.herokuapp.com/secure,59,0,0
+1771802764973,59,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3866,728,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802764929,118,Logout,200,OK,Usuarios Login/Logout 1-1,text,true,,5292,1376,3,3,https://the-internet.herokuapp.com/login,58,0,0
+1771802764929,58,Logout-0,302,Found,Usuarios Login/Logout 1-1,text,true,,1429,652,3,3,https://the-internet.herokuapp.com/logout,58,0,0
+1771802764988,59,Logout-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3863,724,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802765048,59,Página de Login,200,OK,Usuarios Login/Logout 1-1,text,true,,3147,651,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802765003,118,Logearse,200,OK,Usuarios Login/Logout 1-3,text,true,,5272,1480,3,3,https://the-internet.herokuapp.com/login,58,0,0
+1771802765003,58,Logearse-0,303,See Other,Usuarios Login/Logout 1-3,text,true,,1416,777,3,3,https://the-internet.herokuapp.com/authenticate,58,0,0
+1771802765061,60,Logearse-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3856,703,3,3,https://the-internet.herokuapp.com/login,60,0,0
+1771802765032,120,Logout,200,OK,Usuarios Login/Logout 1-2,text,true,,5300,1376,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802765032,59,Logout-0,302,Found,Usuarios Login/Logout 1-2,text,true,,1433,652,3,3,https://the-internet.herokuapp.com/logout,59,0,0
+1771802765092,60,Logout-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3867,724,3,3,https://the-internet.herokuapp.com/login,60,0,0
+1771802765108,116,Logearse,200,OK,Usuarios Login/Logout 1-1,text,true,,5272,1480,3,3,https://the-internet.herokuapp.com/login,56,0,0
+1771802765108,56,Logearse-0,303,See Other,Usuarios Login/Logout 1-1,text,true,,1416,777,3,3,https://the-internet.herokuapp.com/authenticate,56,0,0
+1771802765165,59,Logearse-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3856,703,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802765122,120,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-3,text,true,,5307,1380,3,3,https://the-internet.herokuapp.com/login,60,0,0
+1771802765122,60,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-3,text,true,,1437,652,3,3,https://the-internet.herokuapp.com/secure,60,0,0
+1771802765182,60,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3870,728,3,3,https://the-internet.herokuapp.com/login,60,0,0
+1771802765195,59,Página de Login,200,OK,Usuarios Login/Logout 1-2,text,true,,3147,651,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802765224,119,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-1,text,true,,5307,1380,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802765224,59,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-1,text,true,,1437,652,3,3,https://the-internet.herokuapp.com/secure,59,0,0
+1771802765284,59,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3870,728,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802765242,120,Logout,200,OK,Usuarios Login/Logout 1-3,text,true,,5300,1376,3,3,https://the-internet.herokuapp.com/login,60,0,0
+1771802765242,60,Logout-0,302,Found,Usuarios Login/Logout 1-3,text,true,,1433,652,3,3,https://the-internet.herokuapp.com/logout,60,0,0
+1771802765302,60,Logout-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3867,724,3,3,https://the-internet.herokuapp.com/login,60,0,0
+1771802765254,120,Logearse,200,OK,Usuarios Login/Logout 1-2,text,true,,5272,1481,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802765254,59,Logearse-0,303,See Other,Usuarios Login/Logout 1-2,text,true,,1416,778,3,3,https://the-internet.herokuapp.com/authenticate,59,0,0
+1771802765314,60,Logearse-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3856,703,3,3,https://the-internet.herokuapp.com/login,60,0,0
+1771802765363,59,Página de Login,200,OK,Usuarios Login/Logout 1-3,text,true,,3147,651,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802765343,119,Logout,200,OK,Usuarios Login/Logout 1-1,text,true,,5300,1376,3,3,https://the-internet.herokuapp.com/login,60,0,0
+1771802765343,60,Logout-0,302,Found,Usuarios Login/Logout 1-1,text,true,,1433,652,3,3,https://the-internet.herokuapp.com/logout,60,0,0
+1771802765404,58,Logout-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3867,724,3,3,https://the-internet.herokuapp.com/login,58,0,0
+1771802765375,119,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-2,text,true,,5307,1380,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802765375,59,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-2,text,true,,1437,652,3,3,https://the-internet.herokuapp.com/secure,59,0,0
+1771802765434,60,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3870,728,3,3,https://the-internet.herokuapp.com/login,60,0,0
+1771802765464,58,Página de Login,200,OK,Usuarios Login/Logout 1-1,text,true,,3147,651,3,3,https://the-internet.herokuapp.com/login,58,0,0
+1771802765423,118,Logearse,200,OK,Usuarios Login/Logout 1-3,text,true,,5272,1480,3,3,https://the-internet.herokuapp.com/login,58,0,0
+1771802765423,58,Logearse-0,303,See Other,Usuarios Login/Logout 1-3,text,true,,1416,777,3,3,https://the-internet.herokuapp.com/authenticate,58,0,0
+1771802765481,60,Logearse-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3856,703,3,3,https://the-internet.herokuapp.com/login,60,0,0
+1771802765495,122,Logout,200,OK,Usuarios Login/Logout 1-2,text,true,,5300,1376,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802765495,59,Logout-0,302,Found,Usuarios Login/Logout 1-2,text,true,,1433,652,3,3,https://the-internet.herokuapp.com/logout,59,0,0
+1771802765554,63,Logout-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3867,724,3,3,https://the-internet.herokuapp.com/login,63,0,0
+1771802765523,117,Logearse,200,OK,Usuarios Login/Logout 1-1,text,true,,5272,1480,3,3,https://the-internet.herokuapp.com/login,57,0,0
+1771802765523,57,Logearse-0,303,See Other,Usuarios Login/Logout 1-1,text,true,,1416,777,3,3,https://the-internet.herokuapp.com/authenticate,57,0,0
+1771802765581,59,Logearse-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3856,703,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802765618,59,Página de Login,200,OK,Usuarios Login/Logout 1-2,text,true,,3147,651,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802765542,119,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-3,text,true,,5307,1380,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802765542,59,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-3,text,true,,1437,652,3,3,https://the-internet.herokuapp.com/secure,59,0,0
+1771802765602,59,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3870,728,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802765641,117,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-1,text,true,,5307,1380,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802765641,59,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-1,text,true,,1437,652,3,3,https://the-internet.herokuapp.com/secure,59,0,0
+1771802765700,58,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3870,728,3,3,https://the-internet.herokuapp.com/login,58,0,0
+1771802765711,120,Logearse,200,OK,Usuarios Login/Logout 1-2,text,true,,5272,1481,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802765711,59,Logearse-0,303,See Other,Usuarios Login/Logout 1-2,text,true,,1416,778,3,3,https://the-internet.herokuapp.com/authenticate,59,0,0
+1771802765770,61,Logearse-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3856,703,3,3,https://the-internet.herokuapp.com/login,60,0,0
+1771802765711,120,Logout,200,OK,Usuarios Login/Logout 1-3,text,true,,5300,1376,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802765711,59,Logout-0,302,Found,Usuarios Login/Logout 1-3,text,true,,1433,652,3,3,https://the-internet.herokuapp.com/logout,59,0,0
+1771802765770,61,Logout-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3867,724,3,3,https://the-internet.herokuapp.com/login,61,0,0
+1771802765758,119,Logout,200,OK,Usuarios Login/Logout 1-1,text,true,,5300,1376,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802765758,60,Logout-0,302,Found,Usuarios Login/Logout 1-1,text,true,,1433,652,3,3,https://the-internet.herokuapp.com/logout,59,0,0
+1771802765818,59,Logout-1,200,OK,Usuarios Login/Logout 1-1,text,true,,3867,724,3,3,https://the-internet.herokuapp.com/login,59,0,0
+1771802765832,58,Página de Login,200,OK,Usuarios Login/Logout 1-3,text,true,,3147,651,2,2,https://the-internet.herokuapp.com/login,58,0,0
+1771802765831,119,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-2,text,true,,5307,1380,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802765831,59,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-2,text,true,,1437,652,2,2,https://the-internet.herokuapp.com/secure,59,0,0
+1771802765890,60,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3870,728,2,2,https://the-internet.herokuapp.com/login,60,0,0
+1771802765890,121,Logearse,200,OK,Usuarios Login/Logout 1-3,text,true,,5272,1480,2,2,https://the-internet.herokuapp.com/login,60,0,0
+1771802765890,60,Logearse-0,303,See Other,Usuarios Login/Logout 1-3,text,true,,1416,777,2,2,https://the-internet.herokuapp.com/authenticate,60,0,0
+1771802765950,61,Logearse-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3856,703,2,2,https://the-internet.herokuapp.com/login,60,0,0
+1771802765951,120,Logout,200,OK,Usuarios Login/Logout 1-2,text,true,,5296,1376,2,2,https://the-internet.herokuapp.com/login,60,0,0
+1771802765951,60,Logout-0,302,Found,Usuarios Login/Logout 1-2,text,true,,1433,652,2,2,https://the-internet.herokuapp.com/logout,60,0,0
+1771802766011,60,Logout-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3863,724,2,2,https://the-internet.herokuapp.com/login,60,0,0
+1771802766072,61,Página de Login,200,OK,Usuarios Login/Logout 1-2,text,true,,3143,651,2,2,https://the-internet.herokuapp.com/login,61,0,0
+1771802766011,122,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-3,text,true,,5299,1380,2,2,https://the-internet.herokuapp.com/login,60,0,0
+1771802766011,60,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-3,text,true,,1433,652,2,2,https://the-internet.herokuapp.com/secure,60,0,0
+1771802766071,62,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3866,728,2,2,https://the-internet.herokuapp.com/login,62,0,0
+1771802766133,120,Logearse,200,OK,Usuarios Login/Logout 1-2,text,true,,5264,1480,2,2,https://the-internet.herokuapp.com/login,60,0,0
+1771802766133,60,Logearse-0,303,See Other,Usuarios Login/Logout 1-2,text,true,,1412,777,2,2,https://the-internet.herokuapp.com/authenticate,60,0,0
+1771802766193,60,Logearse-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3852,703,2,2,https://the-internet.herokuapp.com/login,60,0,0
+1771802766133,120,Logout,200,OK,Usuarios Login/Logout 1-3,text,true,,5292,1376,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802766133,59,Logout-0,302,Found,Usuarios Login/Logout 1-3,text,true,,1429,652,2,2,https://the-internet.herokuapp.com/logout,59,0,0
+1771802766193,60,Logout-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3863,724,2,2,https://the-internet.herokuapp.com/login,60,0,0
+1771802766253,59,Página de Login,200,OK,Usuarios Login/Logout 1-3,text,true,,3143,651,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802766253,121,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-2,text,true,,5299,1380,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802766253,59,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-2,text,true,,1433,652,2,2,https://the-internet.herokuapp.com/secure,59,0,0
+1771802766312,62,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3866,728,2,2,https://the-internet.herokuapp.com/login,62,0,0
+1771802766312,118,Logearse,200,OK,Usuarios Login/Logout 1-3,text,true,,5264,1481,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802766312,59,Logearse-0,303,See Other,Usuarios Login/Logout 1-3,text,true,,1412,778,2,2,https://the-internet.herokuapp.com/authenticate,59,0,0
+1771802766372,58,Logearse-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3852,703,2,2,https://the-internet.herokuapp.com/login,58,0,0
+1771802766374,117,Logout,200,OK,Usuarios Login/Logout 1-2,text,true,,5292,1376,2,2,https://the-internet.herokuapp.com/login,58,0,0
+1771802766374,58,Logout-0,302,Found,Usuarios Login/Logout 1-2,text,true,,1429,652,2,2,https://the-internet.herokuapp.com/logout,58,0,0
+1771802766432,59,Logout-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3863,724,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802766430,119,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-3,text,true,,5299,1380,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802766430,59,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-3,text,true,,1433,652,2,2,https://the-internet.herokuapp.com/secure,59,0,0
+1771802766489,60,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3866,728,2,2,https://the-internet.herokuapp.com/login,60,0,0
+1771802766492,59,Página de Login,200,OK,Usuarios Login/Logout 1-2,text,true,,3143,651,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802766549,119,Logout,200,OK,Usuarios Login/Logout 1-3,text,true,,5292,1376,2,2,https://the-internet.herokuapp.com/login,58,0,0
+1771802766549,58,Logout-0,302,Found,Usuarios Login/Logout 1-3,text,true,,1429,652,2,2,https://the-internet.herokuapp.com/logout,58,0,0
+1771802766607,61,Logout-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3863,724,2,2,https://the-internet.herokuapp.com/login,61,0,0
+1771802766551,119,Logearse,200,OK,Usuarios Login/Logout 1-2,text,true,,5264,1480,2,2,https://the-internet.herokuapp.com/login,60,0,0
+1771802766551,60,Logearse-0,303,See Other,Usuarios Login/Logout 1-2,text,true,,1412,777,2,2,https://the-internet.herokuapp.com/authenticate,60,0,0
+1771802766611,59,Logearse-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3852,703,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802766669,63,Página de Login,200,OK,Usuarios Login/Logout 1-3,text,true,,3143,651,2,2,https://the-internet.herokuapp.com/login,63,0,0
+1771802766670,121,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-2,text,true,,5299,1380,2,2,https://the-internet.herokuapp.com/login,62,0,0
+1771802766670,62,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-2,text,true,,1433,652,2,2,https://the-internet.herokuapp.com/secure,62,0,0
+1771802766732,59,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3866,728,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802766738,119,Logearse,200,OK,Usuarios Login/Logout 1-3,text,true,,5264,1480,2,2,https://the-internet.herokuapp.com/login,59,0,0
+1771802766738,59,Logearse-0,303,See Other,Usuarios Login/Logout 1-3,text,true,,1412,777,2,2,https://the-internet.herokuapp.com/authenticate,59,0,0
+1771802766797,60,Logearse-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3852,703,2,2,https://the-internet.herokuapp.com/login,60,0,0
+1771802766791,121,Logout,200,OK,Usuarios Login/Logout 1-2,text,true,,5292,1376,2,2,https://the-internet.herokuapp.com/login,60,0,0
+1771802766791,60,Logout-0,302,Found,Usuarios Login/Logout 1-2,text,true,,1429,652,2,2,https://the-internet.herokuapp.com/logout,60,0,0
+1771802766852,60,Logout-1,200,OK,Usuarios Login/Logout 1-2,text,true,,3863,724,2,2,https://the-internet.herokuapp.com/login,60,0,0
+1771802766857,123,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-3,text,true,,5299,1380,1,1,https://the-internet.herokuapp.com/login,62,0,0
+1771802766857,62,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-3,text,true,,1433,652,1,1,https://the-internet.herokuapp.com/secure,62,0,0
+1771802766919,61,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3866,728,1,1,https://the-internet.herokuapp.com/login,61,0,0
+1771802766981,120,Logout,200,OK,Usuarios Login/Logout 1-3,text,true,,5300,1376,1,1,https://the-internet.herokuapp.com/login,60,0,0
+1771802766981,60,Logout-0,302,Found,Usuarios Login/Logout 1-3,text,true,,1429,652,1,1,https://the-internet.herokuapp.com/logout,60,0,0
+1771802767042,59,Logout-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3871,724,1,1,https://the-internet.herokuapp.com/login,59,0,0
+1771802767102,60,Página de Login,200,OK,Usuarios Login/Logout 1-3,text,true,,3151,651,1,1,https://the-internet.herokuapp.com/login,60,0,0
+1771802767162,120,Logearse,200,OK,Usuarios Login/Logout 1-3,text,true,,5280,1480,1,1,https://the-internet.herokuapp.com/login,59,0,0
+1771802767162,59,Logearse-0,303,See Other,Usuarios Login/Logout 1-3,text,true,,1420,777,1,1,https://the-internet.herokuapp.com/authenticate,59,0,0
+1771802767222,60,Logearse-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3860,703,1,1,https://the-internet.herokuapp.com/login,60,0,0
+1771802767282,120,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-3,text,true,,5315,1380,1,1,https://the-internet.herokuapp.com/login,60,0,0
+1771802767282,60,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-3,text,true,,1441,652,1,1,https://the-internet.herokuapp.com/secure,60,0,0
+1771802767342,60,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3874,728,1,1,https://the-internet.herokuapp.com/login,60,0,0
+1771802767403,119,Logout,200,OK,Usuarios Login/Logout 1-3,text,true,,5308,1376,1,1,https://the-internet.herokuapp.com/login,60,0,0
+1771802767403,60,Logout-0,302,Found,Usuarios Login/Logout 1-3,text,true,,1437,652,1,1,https://the-internet.herokuapp.com/logout,60,0,0
+1771802767463,59,Logout-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3871,724,1,1,https://the-internet.herokuapp.com/login,59,0,0
+1771802767522,59,Página de Login,200,OK,Usuarios Login/Logout 1-3,text,true,,3151,651,1,1,https://the-internet.herokuapp.com/login,59,0,0
+1771802767581,119,Logearse,200,OK,Usuarios Login/Logout 1-3,text,true,,5280,1481,1,1,https://the-internet.herokuapp.com/login,60,0,0
+1771802767581,60,Logearse-0,303,See Other,Usuarios Login/Logout 1-3,text,true,,1420,778,1,1,https://the-internet.herokuapp.com/authenticate,60,0,0
+1771802767641,59,Logearse-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3860,703,1,1,https://the-internet.herokuapp.com/login,59,0,0
+1771802767733,118,Confirmacion de exito logearse,200,OK,Usuarios Login/Logout 1-3,text,true,,5315,1380,1,1,https://the-internet.herokuapp.com/login,58,0,0
+1771802767733,58,Confirmacion de exito logearse-0,302,Found,Usuarios Login/Logout 1-3,text,true,,1441,652,1,1,https://the-internet.herokuapp.com/secure,58,0,0
+1771802767791,60,Confirmacion de exito logearse-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3874,728,1,1,https://the-internet.herokuapp.com/login,60,0,0
+1771802767852,118,Logout,200,OK,Usuarios Login/Logout 1-3,text,true,,5308,1376,1,1,https://the-internet.herokuapp.com/login,58,0,0
+1771802767852,58,Logout-0,302,Found,Usuarios Login/Logout 1-3,text,true,,1437,652,1,1,https://the-internet.herokuapp.com/logout,58,0,0
+1771802767910,60,Logout-1,200,OK,Usuarios Login/Logout 1-3,text,true,,3871,724,1,1,https://the-internet.herokuapp.com/login,60,0,0
